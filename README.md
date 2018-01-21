@@ -19,12 +19,6 @@
   * [30天精通Git版本控管](https://ithelp.ithome.com.tw/users/20004901/ironman/525)
   * [猴子都懂的 Git 入門指南](https://backlog.com/git-tutorial/tw/)
 
-* flask
-
-  * [flask quickstart](http://flask.pocoo.org/docs/0.12/quickstart/)
-  * [heroku 佈署教學](https://github.com/twtrubiks/Deploying-Flask-To-Heroku)
-  * [pythonanywhere 佈署教學](https://www.youtube.com/watch?v=M4sxSoRZLtI)
-
 * markdown
 
   * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
