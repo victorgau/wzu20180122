@@ -12,7 +12,7 @@
 
 ### 學習資源：
 
-* git
+* 版本管理工具 git
 
   * [15 分鐘 git 快速上手 - Try Git](https://try.github.io)
   * [GitHub 教學](https://www.youtube.com/watch?v=py3n6gF5Y00)
